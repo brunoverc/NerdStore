@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NSE.Catalogo.API
+build_property.ProjectDir = /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Catalogo.API/

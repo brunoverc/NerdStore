@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+SnrUTV0apuRHK3idMFaoO5KoE5FVuXd+jRrbUFFMA+Di9aIx7DNw+toOYvHGdb7q9a02AN7pjzCor1swHHPoA==",
+  "success": true,
+  "projectFilePath": "/Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Pedido.API/NSE.Pedido.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/brunovercosa/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.10.8/microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

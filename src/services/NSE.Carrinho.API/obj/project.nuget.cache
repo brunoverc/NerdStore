@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lTCFJQZre6Z2Lw3vgOxKSKlhPzyWH5Ib9fGD3dmMP6boF86B1fniI6HRm+2nqfVywqAQk8Q9q8d+cTuxEHkReg==",
+  "dgSpecHash": "1v+b9e4tHkmwpFyTE8rLbtr0cVt/w0tiltZ5b37/vwDO5akItffoWK8faBilKNGTjvnDIJnXpNz81R74nFY00g==",
   "success": true,
-  "projectFilePath": "/Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Carrinho.API/NSE.Carrinho.API.csproj",
+  "projectFilePath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
   "expectedPackageFiles": [
-    "/Users/brunovercosa/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.10.8/microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+    "C:\\Users\\brunovercosa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
   ],
   "logs": []
 }

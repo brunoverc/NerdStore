@@ -38,6 +38,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.6",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.8",
           "NSE.Core": "1.0.0",
+          "NSE.WebAPI.Core": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.2",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -323,6 +324,20 @@
             "assemblyVersion": "2.8.0.0",
             "fileVersion": "2.8.26.1919"
           }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.21": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.6.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "assemblyVersion": "3.1.21.0",
+            "fileVersion": "3.100.2121.52309"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
         }
       },
       "Microsoft.CSharp/4.7.0": {},
@@ -1462,6 +1477,17 @@
         },
         "compile": {
           "NSE.Core.dll": {}
+        }
+      },
+      "NSE.WebAPI.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.21"
+        },
+        "runtime": {
+          "NSE.WebAPI.Core.dll": {}
+        },
+        "compile": {
+          "NSE.WebAPI.Core.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3099,6 +3125,13 @@
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-flLLEaro2lX5CwnkBpyWlsk54hkB25qAukqK0mliNBsQIJ4AW+RJbJqwbu76vnSsmsjD93o9HCPF7YFAFujUUQ==",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.21",
+      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.3.1.21.nupkg.sha512"
+    },
     "Microsoft.CSharp/4.7.0": {
       "type": "package",
       "serviceable": true,
@@ -3814,6 +3847,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "NSE.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NSE.WebAPI.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

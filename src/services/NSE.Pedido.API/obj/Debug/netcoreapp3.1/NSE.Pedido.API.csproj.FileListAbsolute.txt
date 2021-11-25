@@ -18,3 +18,22 @@
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Pedido.API/obj/Debug/netcoreapp3.1/NSE.Pedido.API.pdb
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Pedido.API/obj/Debug/netcoreapp3.1/NSE.Pedido.API.genruntimeconfig.cache
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Pedido.API/obj/Debug/netcoreapp3.1/NSE.Pedido.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\bin\Debug\netcoreapp3.1\NSE.Pedido.API.StaticWebAssets.xml
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\bin\Debug\netcoreapp3.1\NSE.Pedido.API.exe
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\bin\Debug\netcoreapp3.1\NSE.Pedido.API.deps.json
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\bin\Debug\netcoreapp3.1\NSE.Pedido.API.runtimeconfig.json
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\bin\Debug\netcoreapp3.1\NSE.Pedido.API.runtimeconfig.dev.json
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\bin\Debug\netcoreapp3.1\NSE.Pedido.API.dll
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\bin\Debug\netcoreapp3.1\NSE.Pedido.API.pdb
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.AssemblyInfoInputs.cache
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.AssemblyInfo.cs
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.csproj.CoreCompileInputs.cache
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pedido.API.StaticWebAssets.Manifest.cache
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.RazorTargetAssemblyInfo.cache
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.dll
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.pdb
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.genruntimeconfig.cache

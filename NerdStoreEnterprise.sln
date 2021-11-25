@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29920.165
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CE59F6FC-1501-4E25-814A-52B0E0C677C7}"
 EndProject
@@ -43,6 +43,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Pagamento.API", "src\se
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Pedido.API", "src\services\NSE.Pedido.API\NSE.Pedido.API.csproj", "{0C7AE976-D3C5-47CC-81C5-1C5024142743}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{886B4BC7-57AD-475C-8C00-1B0C88A95634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSE.WebAPI.Core", "src\building blocks\NSE.WebAPI.Core\NSE.WebAPI.Core.csproj", "{3E1FFEBE-343B-4840-95C4-83B1FBA1C9DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,10 @@ Global
 		{0C7AE976-D3C5-47CC-81C5-1C5024142743}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C7AE976-D3C5-47CC-81C5-1C5024142743}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C7AE976-D3C5-47CC-81C5-1C5024142743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E1FFEBE-343B-4840-95C4-83B1FBA1C9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1FFEBE-343B-4840-95C4-83B1FBA1C9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1FFEBE-343B-4840-95C4-83B1FBA1C9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1FFEBE-343B-4840-95C4-83B1FBA1C9DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -105,6 +113,8 @@ Global
 		{5F298BAD-0EA5-4CDF-B7B7-9D709E50AB92} = {0087F975-336A-4537-B653-DF81E2ADA298}
 		{2284ED64-7605-4C36-ACB5-49BB6E183AB7} = {003AF41A-DE6D-4E10-BFB2-B17DFFAA96CF}
 		{0C7AE976-D3C5-47CC-81C5-1C5024142743} = {D677DC3B-F746-4A12-8C71-41BAAB2BDDF8}
+		{886B4BC7-57AD-475C-8C00-1B0C88A95634} = {117A9589-2568-4766-8D6F-6A5E1F0E5C42}
+		{3E1FFEBE-343B-4840-95C4-83B1FBA1C9DC} = {886B4BC7-57AD-475C-8C00-1B0C88A95634}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5636683D-9745-4645-8DF8-3834F35F791B}

@@ -8,3 +8,12 @@
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/building blocks/NSE.Core/obj/Debug/netcoreapp3.1/NSE.Core.pdb
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/building blocks/NSE.Core/obj/Debug/netcoreapp3.1/NSE.Core.csproj.AssemblyReference.cache
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/building blocks/NSE.Core/obj/Debug/netcoreapp3.1/NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.deps.json
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfoInputs.cache
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfo.cs
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.CoreCompileInputs.cache
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.pdb

@@ -11,6 +11,21 @@
           "lib/netstandard2.0/Humanizer.dll": {}
         }
       },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.21": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.5.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
@@ -1596,6 +1611,19 @@
         "runtime": {
           "bin/placeholder/NSE.Core.dll": {}
         }
+      },
+      "NSE.WebAPI.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.21"
+        },
+        "compile": {
+          "bin/placeholder/NSE.WebAPI.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NSE.WebAPI.Core.dll": {}
+        }
       }
     }
   },
@@ -1614,6 +1642,21 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.21": {
+      "sha512": "flLLEaro2lX5CwnkBpyWlsk54hkB25qAukqK0mliNBsQIJ4AW+RJbJqwbu76vnSsmsjD93o9HCPF7YFAFujUUQ==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.21",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
+        "microsoft.aspnetcore.authentication.jwtbearer.3.1.21.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
     "Microsoft.CSharp/4.7.0": {
@@ -6025,6 +6068,11 @@
       "type": "project",
       "path": "../../building blocks/NSE.Core/NSE.Core.csproj",
       "msbuildProject": "../../building blocks/NSE.Core/NSE.Core.csproj"
+    },
+    "NSE.WebAPI.Core/1.0.0": {
+      "type": "project",
+      "path": "../../building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj",
+      "msbuildProject": "../../building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6036,36 +6084,42 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.6",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.8",
       "NSE.Core >= 1.0.0",
+      "NSE.WebAPI.Core >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.2"
     ]
   },
   "packageFolders": {
-    "/Users/brunovercosa/.nuget/packages/": {}
+    "C:\\Users\\brunovercosa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Catalogo.API/NSE.Catalogo.API.csproj",
+      "projectUniqueName": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
       "projectName": "NSE.Catalogo.API",
-      "projectPath": "/Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Catalogo.API/NSE.Catalogo.API.csproj",
-      "packagesPath": "/Users/brunovercosa/.nuget/packages/",
-      "outputPath": "/Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Catalogo.API/obj/",
+      "projectPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
+      "packagesPath": "C:\\Users\\brunovercosa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\services\\NSE.Catalogo.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/brunovercosa/.config/NuGet/NuGet.Config"
+        "C:\\Users\\brunovercosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/building blocks/NSE.Core/NSE.Core.csproj": {
-              "projectPath": "/Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/building blocks/NSE.Core/NSE.Core.csproj"
+            "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.Core\\NSE.Core.csproj": {
+              "projectPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.Core\\NSE.Core.csproj"
+            },
+            "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj": {
+              "projectPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj"
             }
           }
         }
@@ -6129,7 +6183,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

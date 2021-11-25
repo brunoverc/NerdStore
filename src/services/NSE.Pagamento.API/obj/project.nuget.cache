@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hz6GGAb0HWflPWJrJWRczpnLWOHbVeyChzuGMD+03m7nLJ2qGusB/+P5t/z/NnilRQQNjEa2dVAOv0IQkajmRg==",
+  "dgSpecHash": "8k0JpghLtrWtFcWY66ouI9qL9PbKzxl6GkkBZjqUmQufb6iVkmFjnJ9Ik3E4FUzp87ZpbeHYcTbg47o3phVxbw==",
   "success": true,
-  "projectFilePath": "/Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Pagamento.API/NSE.Pagamento.API.csproj",
+  "projectFilePath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj",
   "expectedPackageFiles": [
-    "/Users/brunovercosa/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.10.8/microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+    "C:\\Users\\brunovercosa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
   ],
   "logs": []
 }

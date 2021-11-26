@@ -43,7 +43,7 @@ namespace NSE.WebAPI.Core.Identity
                 return;
             }
 
-            if(!CustomAuthorize.ValidateClaimsUser(context.HttpContext, claimName: _claim.Type, , _claim.Value))
+            if(!CustomAuthorize.ValidateClaimsUser(context.HttpContext, claimName: _claim.Type, _claim.Value))
             {
                 context.Result = new StatusCodeResult(statusCode: 403);
             }

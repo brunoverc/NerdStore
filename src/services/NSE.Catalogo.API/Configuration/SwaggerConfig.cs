@@ -18,6 +18,16 @@ namespace NSE.Catalogo.API.Configuration
                     Contact = new OpenApiContact() { Name = "Bruno Verçosa", Email = "bruno.nv@hotmail.com" },
                     License = new OpenApiLicense() { Name = "MIT", Url = new Uri(uriString: "google.com.br") }
                 });
+
+                c.AddSecurityDefinition(name: "Bearer", new OpenApiSecurityScheme
+                {
+                    Description = "Insira o token JWT desta maneira: Bearer {seu token}",
+                    Name = "Authorization",
+                    Scheme = "Bearer",
+                    BearerFormat = "JWT",
+                    In = ParameterLocation.Header,
+                    Type = SecuritySchemeType.ApiKey
+                });
             });
         }
 

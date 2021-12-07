@@ -1,0 +1,717 @@
+﻿++Solution 'NerdStoreEnterprise' ‎(9 of 9 projects)
+i:{00000000-0000-0000-0000-000000000000}:NerdStoreEnterprise.sln
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++Services
+i:{ce59f6fc-1501-4e25-814a-52b0e0c677c7}:Services
+i:{117a9589-2568-4766-8d6f-6a5e1f0e5c42}:Services
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\services\
+++Identidade
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Identidade
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\identidade\
+++NSE.Identidade.API
+i:{e20930ae-e7e7-4ed1-afd4-a5d709810aaf}:NSE.Identidade.API
+++Connected Services 
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5272
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>5265
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>5263
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>5266
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>5264
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>5267
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>5275
+++Dependencies
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5260
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>5261
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>5262
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>5256
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>5259
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>5258
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:>2742
+i:{3e1ffebe-343b-4840-95c4-83b1fba1c9dc}:>2741
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>5257
+++Properties
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\properties\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\properties\
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\properties\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\properties\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\properties\
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\properties\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\properties\
+++Configuration
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\configuration\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\configuration\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\configuration\
+++Controllers
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\controllers\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\controllers\
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\controllers\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\controllers\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\controllers\
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\controllers\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\controllers\
+++Data
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\data\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\data\
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.core\domainobjects\data\
+++Extensions
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\extensions\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\extensions\
+++Migrations
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\migrations\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\migrations\
+++Models
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\models\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\models\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\models\
+++.DS_Store
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\.ds_store
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\.ds_store
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\.ds_store
+++appsettings.json
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\appsettings.json
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\appsettings.json
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\appsettings.json
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\appsettings.json
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\appsettings.json
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\appsettings.json
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\appsettings.json
+++Dockerfile
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\dockerfile
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\dockerfile
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\dockerfile
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\dockerfile
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\dockerfile
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\dockerfile
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\dockerfile
+++Program.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\program.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\program.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\program.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\program.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\program.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\program.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\program.cs
+++Startup.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\startup.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\startup.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\startup.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\startup.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\startup.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\startup.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\startup.cs
+++No service dependencies discovered
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5273
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>5270
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>5271
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>5268
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>5269
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>5274
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>5276
+++Analyzers
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:analyzers
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:analyzers
+i:{e9ae8163-a22e-4179-a041-820c96307756}:analyzers
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:analyzers
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:analyzers
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:analyzers
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:analyzers
+++Frameworks
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:frameworks
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:frameworks
+i:{e9ae8163-a22e-4179-a041-820c96307756}:frameworks
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:frameworks
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:frameworks
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:frameworks
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:frameworks
+i:{3e1ffebe-343b-4840-95c4-83b1fba1c9dc}:frameworks
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:frameworks
+++Packages
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:packages
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:packages
+i:{e9ae8163-a22e-4179-a041-820c96307756}:packages
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:packages
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:packages
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:packages
+i:{3e1ffebe-343b-4840-95c4-83b1fba1c9dc}:packages
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:packages
+++Projects
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:projects
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:projects
+++launchSettings.json
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\properties\launchsettings.json
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\properties\launchsettings.json
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\properties\launchsettings.json
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\properties\launchsettings.json
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\properties\launchsettings.json
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\properties\launchsettings.json
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\properties\launchsettings.json
+++ApiConfig.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\configuration\apiconfig.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\configuration\apiconfig.cs
+++IdentityConfig.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\configuration\identityconfig.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\configuration\identityconfig.cs
+++SwaggerConfig.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\configuration\swaggerconfig.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\configuration\swaggerconfig.cs
+++AuthController.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\controllers\authcontroller.cs
+++MainController.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\controllers\maincontroller.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\controllers\maincontroller.cs
+++ApplicationDbContext.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\data\applicationdbcontext.cs
+++AppSettings.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\extensions\appsettings.cs
+i:{3e1ffebe-343b-4840-95c4-83b1fba1c9dc}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.webapi.core\identity\appsettings.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\extensions\appsettings.cs
+++IdentityMensagensPortugues.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\extensions\identitymensagensportugues.cs
+++20200423030546_Initial.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\migrations\20200423030546_initial.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\migrations\applicationdbcontextmodelsnapshot.cs
+++UserViewModels.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\models\userviewmodels.cs
+++appsettings.Development.json
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\appsettings.development.json
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\appsettings.development.json
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\appsettings.development.json
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\appsettings.development.json
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\appsettings.development.json
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\appsettings.development.json
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\microsoft.aspnetcore.app
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\microsoft.aspnetcore.app
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\microsoft.aspnetcore.app
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\microsoft.aspnetcore.app
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\microsoft.aspnetcore.app
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\microsoft.aspnetcore.app
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\microsoft.netcore.app
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\microsoft.netcore.app
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\microsoft.netcore.app
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\microsoft.netcore.app
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\microsoft.netcore.app
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\microsoft.netcore.app
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.core\microsoft.netcore.app
+i:{3e1ffebe-343b-4840-95c4-83b1fba1c9dc}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.webapi.core\microsoft.netcore.app
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.21)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5354
+i:{3e1ffebe-343b-4840-95c4-83b1fba1c9dc}:>5307
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.3)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5351
+++Microsoft.AspNetCore.Identity.UI (3.1.3)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5357
+++Microsoft.EntityFrameworkCore (3.1.3)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5345
+++Microsoft.EntityFrameworkCore.Abstractions (3.1.3)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5353
+++Microsoft.EntityFrameworkCore.Relational (3.1.3)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5352
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.3)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5347
+++Microsoft.EntityFrameworkCore.Tools (3.1.3)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5355
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.10.8)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5356
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>5315
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>5336
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>5367
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>5317
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>5328
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>5350
+++Swashbuckle.AspNetCore (5.4.1)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>5349
+++NSE.WebAPI.Core
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.webapi.core\nse.webapi.core.csproj
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.webapi.core\nse.webapi.core.csproj
+i:{886b4bc7-57ad-475c-8c00-1b0c88a95634}:NSE.WebAPI.Core
+++20200423030546_Initial.Designer.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.identidade.api\migrations\20200423030546_initial.designer.cs
+++Catalogo
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Catalogo
+++NSE.Catalogo.API
+i:{11f7fadb-845f-4786-a226-39c7320ef12e}:NSE.Catalogo.API
+++DependencyInjectionConfig.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\configuration\dependencyinjectionconfig.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\configuration\dependencyinjectionconfig.cs
+++CatalogController.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\controllers\catalogcontroller.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\controllers\catalogcontroller.cs
+++Mappings
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\data\mappings\
+++Repository
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\data\repository\
+++CatalogContext.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\data\catalogcontext.cs
+++ProdutosSeed.sql
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\data\produtosseed.sql
+++20210621235612_Initial.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\migrations\20210621235612_initial.cs
+++CatalogContextModelSnapshot.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\migrations\catalogcontextmodelsnapshot.cs
+++IProductRepository.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\models\iproductrepository.cs
+++Product.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\models\product.cs
+++Microsoft.EntityFrameworkCore (5.0.6)
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>5309
+++Microsoft.EntityFrameworkCore.Abstractions (5.0.6)
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>5314
+++Microsoft.EntityFrameworkCore.Design (5.0.6)
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>5311
+++Microsoft.EntityFrameworkCore.Relational (5.0.6)
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>5313
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.6)
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>5310
+++Swashbuckle.AspNetCore (6.2.2)
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>5312
+++NSE.Core
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.core\nse.core.csproj
+i:{4f41812c-6330-4b49-a5b0-cc7012e2be45}:NSE.Core
+++ProductMapping.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\data\mappings\productmapping.cs
+++ProductRepository.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\data\repository\productrepository.cs
+++20210621235612_Initial.Designer.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.catalogo.api\migrations\20210621235612_initial.designer.cs
+++Carrinho
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Carrinho
+++NSE.Carrinho.API
+i:{ddc37040-1b9b-49fb-aa06-2982159f9ce0}:NSE.Carrinho.API
+++WeatherForecast.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\weatherforecast.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\weatherforecast.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\weatherforecast.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\weatherforecast.cs
+++WeatherForecastController.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.carrinho.api\controllers\weatherforecastcontroller.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.cliente.api\controllers\weatherforecastcontroller.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pagamento.api\controllers\weatherforecastcontroller.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\services\nse.pedido.api\controllers\weatherforecastcontroller.cs
+++Cliente
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Cliente
+++NSE.Cliente.API
+i:{0087f975-336a-4537-b653-df81e2ada298}:NSE.Cliente.API
+++Pagamento
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Pagamento
+++NSE.Pagamento.API
+i:{003af41a-de6d-4e10-bfb2-b17dffaa96cf}:NSE.Pagamento.API
+++Pedido
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Pedido
+++NSE.Pedido.API
+i:{d677dc3b-f746-4a12-8c71-41baab2bddf8}:NSE.Pedido.API
+++Building Blocks
+i:{ce59f6fc-1501-4e25-814a-52b0e0c677c7}:Building Blocks
+++Core
+i:{117a9589-2568-4766-8d6f-6a5e1f0e5c42}:Core
+++DomainObjects
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.core\domainobjects\
+++mono_crash.11a6748113.0.json
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.core\mono_crash.11a6748113.0.json
+++Entity.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.core\domainobjects\entity.cs
+++IAggregateRoot.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.core\domainobjects\iaggregateroot.cs
+++IRepository.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.core\domainobjects\data\irepository.cs
+++IUnitOfWork.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.core\domainobjects\data\iunitofwork.cs
+++Identity
+i:{3e1ffebe-343b-4840-95c4-83b1fba1c9dc}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.webapi.core\identity\
+++CustomAuthorize.cs
+i:{3e1ffebe-343b-4840-95c4-83b1fba1c9dc}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.webapi.core\identity\customauthorize.cs
+++JwtConfig.cs
+i:{3e1ffebe-343b-4840-95c4-83b1fba1c9dc}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\building blocks\nse.webapi.core\identity\jwtconfig.cs
+++Web
+i:{ce59f6fc-1501-4e25-814a-52b0e0c677c7}:Web
+++MVC
+i:{119cfea6-a437-44da-9213-ee8b87493873}:MVC
+++NSE.WebApp.MVC
+i:{e9ce11fb-0d6c-4843-abdd-19d63ed900ef}:NSE.WebApp.MVC
+++wwwroot
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\
+++WebAppConfig.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\configuration\webappconfig.cs
+++Handlers
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\services\handlers\
+++HttpClientAuthorizationDelegationHandler.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\services\handlers\httpclientauthorizationdelegationhandler.cs
+++AutenticacaoService.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\services\autenticacaoservice.cs
+++CatalogServices.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\services\catalogservices.cs
+++IAutenticacaoService.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\services\iautenticacaoservice.cs
+++ICatalogServices.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\services\icatalogservices.cs
+++Service.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\services\service.cs
+++Views
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\
+++css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\css\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\
+++fonts
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\
+++images
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\
+++js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\js\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\
+++favicon.ico
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\favicon.ico
+++HomeController.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\controllers\homecontroller.cs
+++IdentidadeController.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\controllers\identidadecontroller.cs
+++CustomHttpRequestException.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\extensions\customhttprequestexception.cs
+++ExceptionMiddleware.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\extensions\exceptionmiddleware.cs
+++IUser.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\extensions\iuser.cs
+++SummaryViewComponent.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\extensions\summaryviewcomponent.cs
+++ErrorViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\models\errorviewmodel.cs
+++ProductViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\models\productviewmodel.cs
+++UsuarioViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\models\usuarioviewmodel.cs
+++Catalog
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\catalog\
+++Home
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\home\
+++Shared
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\shared\
+++_ViewImports.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\_viewstart.cshtml
+++Microsoft.CodeAnalysis.Analyzers
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.3\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.3\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.3)
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>5348
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (3.1.3)
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>5346
+++responsive.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\css\responsive.css
+++site.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\css\site.css
+++ui.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\css\ui.css
+++fontawesome
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\
+++avatars
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\avatars\
+++banners
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\banners\
+++icons
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\icons\
+++misc
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\misc\
+++produtos
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\produtos\
+++logo.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\logo.png
+++script.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\js\script.js
+++site.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\js\site.js
+++bootstrap
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\
+++jquery
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery\
+++jquery-validation
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\
+++DetailProduct.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\catalog\detailproduct.cshtml
+++Index.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\catalog\index.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\home\index.cshtml
+++Privacy.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\home\privacy.cshtml
+++Login.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\identidade\login.cshtml
+++Registro.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\identidade\registro.cshtml
+++Components
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\components\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\shared\components\
+++_Layout.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\_layout.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\_loginpartial.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\_validationscriptspartial.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\error.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\shared\error.cshtml
+++responsive.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\css\responsive.css.map
+++ui.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\css\ui.css.map
+++scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\
+++webfonts
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\
+++avatar1.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\avatars\avatar1.jpg
+++avatar2.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\avatars\avatar2.jpg
+++avatar3.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\avatars\avatar3.jpg
+++1.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\banners\1.jpg
+++nerdstore.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\banners\nerdstore.png
+++Template.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\banners\template.jpg
+++Template.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\banners\template.png
+++pay-american-ex.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\icons\pay-american-ex.png
+++pay-bank.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\icons\pay-bank.png
+++pay-mastercard.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\icons\pay-mastercard.png
+++pay-visa.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\icons\pay-visa.png
+++pay-visa-el.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\icons\pay-visa-el.png
+++appstore.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\misc\appstore.png
+++payments.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\misc\payments.png
+++playmarket.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\misc\playmarket.png
+++camiseta1.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\produtos\camiseta1.jpg
+++camiseta2.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\produtos\camiseta2.jpg
+++camiseta3.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\produtos\camiseta3.jpg
+++camiseta4.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\produtos\camiseta4.jpg
+++caneca1.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca1.jpg
+++caneca2.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca2.jpg
+++caneca3.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca3.jpg
+++caneca4.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca4.jpg
+++cards.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\images\produtos\cards.png
+++dist
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery\dist\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery\license.txt
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Summary
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\components\summary\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\shared\components\summary\
+++all.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\all.css
+++brands.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\brands.css
+++fontawesome.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\fontawesome.css
+++regular.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\regular.css
+++solid.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\solid.css
+++svg-with-js.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\svg-with-js.css
+++v4-shims.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\v4-shims.css
+++_animated.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_animated.scss
+++_bordered-pulled.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_bordered-pulled.scss
+++_core.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_core.scss
+++_fixed-width.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_fixed-width.scss
+++_icons.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_icons.scss
+++_larger.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_larger.scss
+++_list.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_list.scss
+++_mixins.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_mixins.scss
+++_rotated-flipped.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_rotated-flipped.scss
+++_screen-reader.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_screen-reader.scss
+++_shims.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_shims.scss
+++_stacked.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_stacked.scss
+++_variables.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_variables.scss
+++brands.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\brands.scss
+++fontawesome.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\fontawesome.scss
+++regular.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\regular.scss
+++solid.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\solid.scss
+++v4-shims.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\v4-shims.scss
+++fa-brands-400.eot
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-brands-400.eot
+++fa-brands-400.svg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-brands-400.svg
+++fa-brands-400.ttf
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-brands-400.woff
+++fa-brands-400.woff2
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-brands-400.woff2
+++fa-regular-400.eot
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-regular-400.eot
+++fa-regular-400.svg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-regular-400.svg
+++fa-regular-400.ttf
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-regular-400.woff
+++fa-regular-400.woff2
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-regular-400.woff2
+++fa-solid-900.eot
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-solid-900.eot
+++fa-solid-900.svg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-solid-900.svg
+++fa-solid-900.ttf
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-solid-900.woff
+++fa-solid-900.woff2
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-solid-900.woff2
+++jquery.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++Default.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\components\summary\default.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\views\shared\shared\components\summary\default.cshtml
+++all.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\all.min.css
+++brands.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\brands.min.css
+++fontawesome.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\fontawesome.min.css
+++regular.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\regular.min.css
+++solid.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\solid.min.css
+++svg-with-js.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\svg-with-js.min.css
+++v4-shims.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\v4-shims.min.css
+++bootstrap.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\brunovercosa\documents\visual studio 2022\projects\nerdstore\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map

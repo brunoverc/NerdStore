@@ -12,12 +12,12 @@ namespace NSE.Catalogo.API.Migrations
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    Name = table.Column<string>(type: "varchar(250", nullable: false),
-                    Description = table.Column<string>(type: "varchar(250", nullable: false),
+                    Name = table.Column<string>(type: "varchar(250)", nullable: false),
+                    Description = table.Column<string>(type: "varchar(250)", nullable: false),
                     Active = table.Column<bool>(type: "bit", nullable: false),
                     Value = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     RegistrationDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    Image = table.Column<string>(type: "varchar(250", nullable: false),
+                    Image = table.Column<string>(type: "varchar(250)", nullable: false),
                     QuantityStock = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>

@@ -7,3 +7,4 @@ C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\buildi
 C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
 C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
 C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.AssemblyReference.cache

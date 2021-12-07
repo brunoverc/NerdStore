@@ -738,3 +738,5 @@ C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\web\NS
 C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.dll
 C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.pdb
 C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.genruntimeconfig.cache
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\DetailProduct.cshtml.g.cs
+C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs

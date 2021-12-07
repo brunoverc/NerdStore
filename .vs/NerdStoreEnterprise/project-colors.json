@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e1ffebe-343b-4840-95c4-83b1fba1c9dc": {
+      "ProjectGuid": "3e1ffebe-343b-4840-95c4-83b1fba1c9dc",
+      "DisplayName": "NSE.WebAPI.Core",
+      "ColorIndex": 0
+    },
+    "6f03b725-dc76-41a7-abd8-c22e4758cb06": {
+      "ProjectGuid": "6f03b725-dc76-41a7-abd8-c22e4758cb06",
+      "DisplayName": "NSE.Catalogo.API",
+      "ColorIndex": 1
+    },
+    "6c4032d4-7aeb-49c7-a551-f5b84d3945bb": {
+      "ProjectGuid": "6c4032d4-7aeb-49c7-a551-f5b84d3945bb",
+      "DisplayName": "NSE.WebApp.MVC",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "67c7bf5b-9716-45db-ae14-fa9b7db9a519": {
+      "ProjectGuid": "67c7bf5b-9716-45db-ae14-fa9b7db9a519",
+      "DisplayName": "NSE.Identidade.API",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

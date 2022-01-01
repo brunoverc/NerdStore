@@ -18,22 +18,42 @@
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.pdb
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.genruntimeconfig.cache
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.StaticWebAssets.xml
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.exe
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.deps.json
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.runtimeconfig.json
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.runtimeconfig.dev.json
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.dll
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.pdb
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.AssemblyInfoInputs.cache
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.AssemblyInfo.cs
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.csproj.CoreCompileInputs.cache
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Carrinho.API.StaticWebAssets.Manifest.cache
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.RazorTargetAssemblyInfo.cache
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.dll
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.pdb
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.genruntimeconfig.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.StaticWebAssets.xml
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.exe
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.deps.json
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.runtimeconfig.json
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.runtimeconfig.dev.json
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.dll
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.pdb
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.AssemblyInfoInputs.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.AssemblyInfo.cs
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.csproj.CoreCompileInputs.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/staticwebassets/NSE.Carrinho.API.StaticWebAssets.Manifest.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.RazorTargetAssemblyInfo.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.dll
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.pdb
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.genruntimeconfig.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.StaticWebAssets.xml
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.deps.json
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.runtimeconfig.json
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.runtimeconfig.dev.json
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.dll
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/bin/Debug/netcoreapp3.1/NSE.Carrinho.API.pdb
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.csproj.AssemblyReference.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.AssemblyInfoInputs.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.AssemblyInfo.cs
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.csproj.CoreCompileInputs.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/staticwebassets/NSE.Carrinho.API.StaticWebAssets.Manifest.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.RazorTargetAssemblyInfo.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.dll
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.pdb
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/NSE.Carrinho.API.genruntimeconfig.cache

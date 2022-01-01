@@ -7,8 +7,16 @@
   <ItemGroup>
     <Folder Include="DomainObjects\" />
     <Folder Include="DomainObjects\Data\" />
+    <Folder Include="Data\" />
+    <Folder Include="Mediator\" />
+    <Folder Include="Messages\" />
+    <Folder Include="Util\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="DomainObjects\Data\" />
+    <None Remove="Data\" />
+    <None Remove="Mediator\" />
+    <None Remove="Messages\" />
+    <None Remove="Util\" />
   </ItemGroup>
 </Project>

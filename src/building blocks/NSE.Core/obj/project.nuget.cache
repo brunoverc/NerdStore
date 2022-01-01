@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFRvX1hvWgtWrD8AKNt1eDQsgGj76RpBhnf0Cw7pyCR79FjhjSZXdTqwLYNX17X3x0z2A21gZrkoCw4P7wRejg==",
+  "dgSpecHash": "+kCa/IlSNMLjGx78cRa5YDujtIEYmOHaM1s6fiv+3k4fcB3Kq8yaupBUTX/Tqz1QQG3yo09k8NWhNT9V0qyeyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
+  "projectFilePath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.Core/NSE.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

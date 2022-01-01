@@ -21,6 +21,19 @@ namespace NSE.WebApp.MVC.Controllers
             return View();
         }
 
+        [Route("sistema-indisponivel")]
+        public IActionResult SistemUnavailable()
+        {
+            var modelErro = new ErrorViewModel
+            {
+                Mensagem = "Ocorreu um erro! Tente novamente mais tarde ou contate nosso suporte.",
+                Titulo = "Ocorreu um erro!",
+                ErroCode = 500
+            };
+
+            return View("Error", modelErro);
+        }
+
         [Route("erro/{id:length(3,3)}")]
         public IActionResult Error(int id)
         {

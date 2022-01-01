@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj": {}
+    "/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Catalogo.API/NSE.Catalogo.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.Core\\NSE.Core.csproj": {
+    "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.Core/NSE.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
+        "projectUniqueName": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.Core/NSE.Core.csproj",
         "projectName": "NSE.Core",
-        "projectPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
-        "packagesPath": "C:\\Users\\brunovercosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.Core\\obj\\",
+        "projectPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.Core/NSE.Core.csproj",
+        "packagesPath": "/Users/brunovercosa/.nuget/packages/",
+        "outputPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\brunovercosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/brunovercosa/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,28 +52,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj": {
+    "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj",
+        "projectUniqueName": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj",
         "projectName": "NSE.WebAPI.Core",
-        "projectPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj",
-        "packagesPath": "C:\\Users\\brunovercosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.WebAPI.Core\\obj\\",
+        "projectPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj",
+        "packagesPath": "/Users/brunovercosa/.nuget/packages/",
+        "outputPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\brunovercosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/brunovercosa/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -114,39 +110,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj": {
+    "/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Catalogo.API/NSE.Catalogo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
+        "projectUniqueName": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Catalogo.API/NSE.Catalogo.API.csproj",
         "projectName": "NSE.Catalogo.API",
-        "projectPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
-        "packagesPath": "C:\\Users\\brunovercosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\services\\NSE.Catalogo.API\\obj\\",
+        "projectPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Catalogo.API/NSE.Catalogo.API.csproj",
+        "packagesPath": "/Users/brunovercosa/.nuget/packages/",
+        "outputPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Catalogo.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\brunovercosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/brunovercosa/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.Core\\NSE.Core.csproj": {
-                "projectPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.Core\\NSE.Core.csproj"
+              "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.Core/NSE.Core.csproj": {
+                "projectPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.Core/NSE.Core.csproj"
               },
-              "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj": {
-                "projectPath": "C:\\Users\\brunovercosa\\Documents\\Visual Studio 2022\\Projects\\NerdStore\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj"
+              "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj": {
+                "projectPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj"
               }
             }
           }
@@ -210,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

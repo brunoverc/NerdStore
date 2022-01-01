@@ -18,22 +18,42 @@
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.pdb
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.genruntimeconfig.cache
 /Users/brunovercosa/Documents/GitHub/NerdStoreEnterprise/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.StaticWebAssets.xml
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.exe
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.deps.json
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.runtimeconfig.json
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.runtimeconfig.dev.json
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.dll
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.pdb
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.AssemblyInfoInputs.cache
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.AssemblyInfo.cs
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.csproj.CoreCompileInputs.cache
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pagamento.API.StaticWebAssets.Manifest.cache
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.RazorTargetAssemblyInfo.cache
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.dll
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.pdb
-C:\Users\brunovercosa\Documents\Visual Studio 2022\Projects\NerdStore\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.genruntimeconfig.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.StaticWebAssets.xml
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.exe
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.deps.json
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.runtimeconfig.json
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.runtimeconfig.dev.json
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.dll
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.pdb
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.AssemblyInfoInputs.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.AssemblyInfo.cs
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.csproj.CoreCompileInputs.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/staticwebassets/NSE.Pagamento.API.StaticWebAssets.Manifest.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.RazorTargetAssemblyInfo.cache
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.dll
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.pdb
+C:/Users/brunovercosa/Documents/Visual Studio 2022/Projects/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.genruntimeconfig.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.StaticWebAssets.xml
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.deps.json
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.runtimeconfig.json
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.runtimeconfig.dev.json
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.dll
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/bin/Debug/netcoreapp3.1/NSE.Pagamento.API.pdb
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.csproj.AssemblyReference.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.AssemblyInfoInputs.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.AssemblyInfo.cs
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.csproj.CoreCompileInputs.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/staticwebassets/NSE.Pagamento.API.StaticWebAssets.Manifest.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.RazorTargetAssemblyInfo.cache
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.dll
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.pdb
+/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Pagamento.API/obj/Debug/netcoreapp3.1/NSE.Pagamento.API.genruntimeconfig.cache

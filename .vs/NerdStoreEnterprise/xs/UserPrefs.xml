@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|Selfhosting - Development">
+  <MonoDevelop.Ide.ItemProperties.src.Services.Identidade.NSE.Identidade.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/building blocks/NSE.Core/DomainObjects/Email.cs">
+    <Files>
+      <File FileName="src/services/NSE.Cliente.API/Models/Client.cs" Line="20" Column="32" />
+      <File FileName="src/services/NSE.Cliente.API/Models/Address.cs" Line="15" Column="49" />
+      <File FileName="src/building blocks/NSE.Core/DomainObjects/Cpf.cs" Line="74" Column="6" />
+      <File FileName="src/building blocks/NSE.Core/Util/StringUtils.cs" Line="6" Column="5" />
+      <File FileName="src/building blocks/NSE.Core/DomainObjects/DomainException.cs" Line="4" Column="5" />
+      <File FileName="src/building blocks/NSE.Core/DomainObjects/Email.cs" Line="26" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NerdStoreEnterprise" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Building Blocks" expanded="True">
+                <Node name="Core" expanded="True">
+                  <Node name="NSE.Core" expanded="True">
+                    <Node name="DomainObjects" expanded="True">
+                      <Node name="Email.cs" selected="True" />
+                    </Node>
+                    <Node name="Util" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Cliente" expanded="True">
+                  <Node name="NSE.Cliente.API" expanded="True">
+                    <Node name="Dependencies" expanded="True">
+                      <Node name="PackageDependencies" expanded="True" />
+                    </Node>
+                    <Node name="Models" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Web" expanded="True">
+                <Node name="MVC" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

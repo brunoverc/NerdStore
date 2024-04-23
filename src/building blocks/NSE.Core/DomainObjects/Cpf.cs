@@ -1,26 +1,24 @@
-﻿using System;
-using NSE.Core.Util;
+﻿using NSE.Core.Utils;
 
 namespace NSE.Core.DomainObjects
 {
-	public class Cpf
-	{
-		public const int CpfMaxLenght = 11;
+    public class Cpf
+    {
+        public const int CpfMaxLength = 11;
+        public string Numero { get; private set; }
 
-		public string Number { get; private set; }
+        //Construtor do EntityFramework
+        protected Cpf() { }
 
-		protected Cpf() { }
-
-        public Cpf(string number)
+        public Cpf(string numero)
         {
-            if (!Valid(number)) throw new DomainException(message: "CPF Inválido");
-
-			Number = number;
+            if (!Validar(numero)) throw new DomainException("CPF inválido");
+            Numero = numero;
         }
 
-        public static bool Valid(string cpf)
+        public static bool Validar(string cpf)
         {
-            cpf = cpf.OnlyNumbers(cpf);
+            cpf = cpf.ApenasNumeros(cpf);
 
             if (cpf.Length > 11)
                 return false;
@@ -73,4 +71,3 @@ namespace NSE.Core.DomainObjects
         }
     }
 }
-

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k85pp7nEkmn/2nzSxZY19LwE55t+vmMscznx271oOPxCZtZsDyvzMNTteUJh6uvMOnvy85Na4FXGTscii5ggcg==",
+  "success": true,
+  "projectFilePath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/services/NSE.Pagamentos.NerdsPag/NSE.Pagamentos.NerdsPag.csproj",
+  "expectedPackageFiles": [
+    "/Users/brunovercosa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

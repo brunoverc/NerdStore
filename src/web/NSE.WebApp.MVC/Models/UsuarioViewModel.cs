@@ -1,13 +1,25 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using NSE.Core.Communication;
+using NSE.WebApp.MVC.Extensions;
 
 namespace NSE.WebApp.MVC.Models
 {
     public class UsuarioRegistro
     {
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
+        [DisplayName("Nome Completo")]
+        public string Nome { get; set; }
+
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
+        [DisplayName("CPF")]
+        [Cpf]
+        public string Cpf { get; set; }
+
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
         [EmailAddress(ErrorMessage = "O campo {0} está em formato inválido")]
+        [DisplayName("E-mail")] 
         public string Email { get; set; }
 
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
@@ -33,6 +45,7 @@ namespace NSE.WebApp.MVC.Models
     public class UsuarioRespostaLogin
     {
         public string AccessToken { get; set; }
+        public string RefreshToken { get; set; }
         public double ExpiresIn { get; set; }
         public UsuarioToken UsuarioToken { get; set; }
         public ResponseResult ResponseResult { get; set; }

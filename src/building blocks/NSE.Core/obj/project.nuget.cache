@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "+kCa/IlSNMLjGx78cRa5YDujtIEYmOHaM1s6fiv+3k4fcB3Kq8yaupBUTX/Tqz1QQG3yo09k8NWhNT9V0qyeyA==",
+  "dgSpecHash": "NPgkXrinnMBBRFvtGdij9lVxCUc4FaAJlOPaVmswG8vUWa0ltU5S/rSUwIq2li+GW7Axtniv8VrD/+lmzTxeWg==",
   "success": true,
-  "projectFilePath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.Core/NSE.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/NSE.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/brunovercosa/.nuget/packages/fluentvalidation/8.6.2/fluentvalidation.8.6.2.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/mediatr/8.0.1/mediatr.8.0.1.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.4/microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.4/microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/microsoft.extensions.primitives/3.1.4/microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/netdevpack/1.1.0/netdevpack.1.1.0.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/system.componentmodel.annotations/4.4.1/system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/brunovercosa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

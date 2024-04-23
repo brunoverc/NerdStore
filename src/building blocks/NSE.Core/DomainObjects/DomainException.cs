@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace NSE.Core.DomainObjects
 {
     public class DomainException : Exception
@@ -13,4 +14,3 @@ namespace NSE.Core.DomainObjects
         { }
     }
 }
-

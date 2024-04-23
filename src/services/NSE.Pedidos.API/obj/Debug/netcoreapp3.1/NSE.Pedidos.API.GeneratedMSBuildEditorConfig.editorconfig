@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = NSE.Pedidos.API
+build_property.ProjectDir = /Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/services/NSE.Pedidos.API/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

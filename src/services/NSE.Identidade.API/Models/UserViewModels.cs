@@ -1,10 +1,17 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace NSE.Identidade.API.Models
 {
     public class UsuarioRegistro
     {
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
+        public string Nome { get; set; }
+
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
+        public string Cpf { get; set; }
+
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
         [EmailAddress(ErrorMessage = "O campo {0} está em formato inválido")]
         public string Email { get; set; }
@@ -31,6 +38,7 @@ namespace NSE.Identidade.API.Models
     public class UsuarioRespostaLogin
     {
         public string AccessToken { get; set; }
+        public Guid RefreshToken { get; set; }
         public double ExpiresIn { get; set; }
         public UsuarioToken UsuarioToken { get; set; }
     }

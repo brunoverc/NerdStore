@@ -2,7 +2,9 @@
 {
     public class AppSettings
     {
-        public string AuthenticationUrl { get; set; }
-        public string CatalogUrl { get; set; }
+        public string AutenticacaoUrl { get; set; }
+        public string CatalogoUrl { get; set; }
+        public string ClienteUrl { get; set; }
+        public string ComprasBffUrl { get; set; }
     }
 }

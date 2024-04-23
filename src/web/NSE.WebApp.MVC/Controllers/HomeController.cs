@@ -1,38 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.AspNetCore.Mvc;
 using NSE.WebApp.MVC.Models;
 
 namespace NSE.WebApp.MVC.Controllers
 {
     public class HomeController : MainController
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
         [Route("sistema-indisponivel")]
-        public IActionResult SistemUnavailable()
+        public IActionResult SistemaIndisponivel()
         {
             var modelErro = new ErrorViewModel
             {
-                Mensagem = "Ocorreu um erro! Tente novamente mais tarde ou contate nosso suporte.",
-                Titulo = "Ocorreu um erro!",
+                Mensagem = "O sistema está temporariamente indisponível, isto pode ocorrer em momentos de sobrecarga de usuários.",
+                Titulo = "Sistema indisponível.",
                 ErroCode = 500
             };
 
             return View("Error", modelErro);
         }
+
 
         [Route("erro/{id:length(3,3)}")]
         public IActionResult Error(int id)

@@ -4,7 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using NSE.Catalogo.API.Configuration;
-using NSE.WebAPI.Core.Identity;
+using NSE.WebAPI.Core.Identidade;
 
 namespace NSE.Catalogo.API
 {
@@ -16,11 +16,11 @@ namespace NSE.Catalogo.API
         {
             var builder = new ConfigurationBuilder()
                 .SetBasePath(hostEnvironment.ContentRootPath)
-                .AddJsonFile(path: "appsettings.json", optional: true, reloadOnChange: true)
-                .AddJsonFile(path: $"appsettings.{hostEnvironment.EnvironmentName}.json", optional: true, reloadOnChange: true)
+                .AddJsonFile("appsettings.json", true, true)
+                .AddJsonFile($"appsettings.{hostEnvironment.EnvironmentName}.json", true, true)
                 .AddEnvironmentVariables();
 
-            if(hostEnvironment.IsDevelopment())
+            if (hostEnvironment.IsDevelopment())
             {
                 builder.AddUserSecrets<Startup>();
             }
@@ -28,24 +28,23 @@ namespace NSE.Catalogo.API
             Configuration = builder.Build();
         }
 
-        
-
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddApiConfiguration(Configuration);
 
+            services.AddMessageBusConfiguration(Configuration);
+
             services.AddJwtConfiguration(Configuration);
 
             services.AddSwaggerConfiguration();
-            services.RegisterServices();
 
+            services.RegisterServices();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseSwaggerConfiguration();
+
             app.UseApiConfiguration(env);
         }
     }

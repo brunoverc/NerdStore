@@ -1,6 +1,8 @@
 ﻿using System.Globalization;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.DataProtection;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -15,20 +17,30 @@ namespace NSE.WebApp.MVC.Configuration
         {
             services.AddControllersWithViews();
 
+            services.AddDataProtection()
+                .PersistKeysToFileSystem(new System.IO.DirectoryInfo(@"/var/data_protection_keys/"))
+                .SetApplicationName("NerdStoreEnterprise");
+
+            services.Configure<ForwardedHeadersOptions>(options =>
+            {
+                options.ForwardedHeaders =
+                    ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto;
+            });
+
             services.Configure<AppSettings>(configuration);
         }
 
         public static void UseMvcConfiguration(this IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseForwardedHeaders();
+
             //if (env.IsDevelopment())
             //{
             //    app.UseDeveloperExceptionPage();
             //}
             //else
             //{
-            //    app.UseExceptionHandler("/erro/500");
-            //    app.UseStatusCodePagesWithRedirects("/erro/{0}");
-            //    app.UseHsts();
+
             //}
 
             app.UseExceptionHandler("/erro/500");
@@ -42,10 +54,10 @@ namespace NSE.WebApp.MVC.Configuration
 
             app.UseIdentityConfiguration();
 
-            var supportedCultures = new[] { new CultureInfo(name: "pt-BR") };
+            var supportedCultures = new[] { new CultureInfo("pt-BR") };
             app.UseRequestLocalization(new RequestLocalizationOptions
             {
-                DefaultRequestCulture = new RequestCulture(culture: "pt-BR"),
+                DefaultRequestCulture = new RequestCulture("pt-BR"),
                 SupportedCultures = supportedCultures,
                 SupportedUICultures = supportedCultures
             });
@@ -56,7 +68,7 @@ namespace NSE.WebApp.MVC.Configuration
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Catalog}/{action=Index}/{id?}");
+                    pattern: "{controller=Catalogo}/{action=Index}/{id?}");
             });
         }
     }

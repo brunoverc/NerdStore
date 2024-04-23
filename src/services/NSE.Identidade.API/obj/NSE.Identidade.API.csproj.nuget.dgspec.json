@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Identidade.API/NSE.Identidade.API.csproj": {}
+    "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/services/NSE.Identidade.API/NSE.Identidade.API.csproj": {}
   },
   "projects": {
-    "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj": {
+    "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/NSE.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj",
-        "projectName": "NSE.WebAPI.Core",
-        "projectPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj",
+        "projectUniqueName": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/NSE.Core.csproj",
+        "projectName": "NSE.Core",
+        "projectPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/NSE.Core.csproj",
         "packagesPath": "/Users/brunovercosa/.nuget/packages/",
-        "outputPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/obj/",
+        "outputPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brunovercosa/.config/NuGet/NuGet.Config"
+          "/Users/brunovercosa/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,9 +39,25 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "FluentValidation": {
               "target": "Package",
-              "version": "[3.1.21, )"
+              "version": "[8.6.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "NetDevPack": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             }
           },
           "imports": [
@@ -49,43 +66,225 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Identidade.API/NSE.Identidade.API.csproj": {
+    "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.MessageBus/NSE.MessageBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Identidade.API/NSE.Identidade.API.csproj",
-        "projectName": "NSE.Identidade.API",
-        "projectPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Identidade.API/NSE.Identidade.API.csproj",
+        "projectUniqueName": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.MessageBus/NSE.MessageBus.csproj",
+        "projectName": "NSE.MessageBus",
+        "projectPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.MessageBus/NSE.MessageBus.csproj",
         "packagesPath": "/Users/brunovercosa/.nuget/packages/",
-        "outputPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/services/NSE.Identidade.API/obj/",
+        "outputPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.MessageBus/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brunovercosa/.config/NuGet/NuGet.Config"
+          "/Users/brunovercosa/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj": {
-                "projectPath": "/Users/brunovercosa/Documents/GitHub/NerdStore/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj"
+              "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/NSE.Core.csproj": {
+                "projectPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/NSE.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj",
+        "projectName": "NSE.WebAPI.Core",
+        "projectPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj",
+        "packagesPath": "/Users/brunovercosa/.nuget/packages/",
+        "outputPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.WebAPI.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brunovercosa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/NSE.Core.csproj": {
+                "projectPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/NSE.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "NetDevPack.Security.JwtExtensions": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/services/NSE.Identidade.API/NSE.Identidade.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/services/NSE.Identidade.API/NSE.Identidade.API.csproj",
+        "projectName": "NSE.Identidade.API",
+        "projectPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/services/NSE.Identidade.API/NSE.Identidade.API.csproj",
+        "packagesPath": "/Users/brunovercosa/.nuget/packages/",
+        "outputPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/services/NSE.Identidade.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brunovercosa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/NSE.Core.csproj": {
+                "projectPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.Core/NSE.Core.csproj"
+              },
+              "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.MessageBus/NSE.MessageBus.csproj": {
+                "projectPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.MessageBus/NSE.MessageBus.csproj"
+              },
+              "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj": {
+                "projectPath": "/Users/brunovercosa/Library/CloudStorage/OneDrive-Personal/Projetos/Nerd Store/src/building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj"
               }
             }
           }
@@ -102,45 +301,53 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[3.1.21, )"
+              "version": "[3.1.7, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.7, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.7, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.7, )"
             },
             "Microsoft.EntityFrameworkCore.Abstractions": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.7, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.7, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.8, )"
             },
+            "NetDevPack.Security.JwtSigningCredentials.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "NetDevPack.Security.JwtSigningCredentials.Store.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.4.1, )"
+              "version": "[5.5.1, )"
             }
           },
           "imports": [
@@ -149,10 +356,25 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -161,7 +383,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
